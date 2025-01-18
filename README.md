@@ -1,2 +1,2 @@
 # ai-blog
-Blog for everything AI from ML to Python
+A blog for anything and everything connected to AI from ML to Python and beyond
